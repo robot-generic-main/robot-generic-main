@@ -2,338 +2,338 @@
 	path = robot-generic-description/supported_hardware_list
 	url = https://github.com/robot-generic-description/supported_hardware_list
 [submodule "moveit_config_generator"]
-	path = moveit_config_generator
+	path = robot-generic-description/moveit_config_generator
 	url = https://github.com/robot-generic-description/moveit_config_generator
 [submodule "capabilities_parser"]
-	path = capabilities_parser
+	path = robot-generic-description/capabilities_parser
 	url = https://github.com/robot-generic-description/capabilities_parser
 [submodule "peripheral_description_generator"]
-	path = peripheral_description_generator
+	path = robot-generic-description/peripheral_description_generator
 	url = https://github.com/robot-generic-description/peripheral_description_generator
 [submodule "peripheral_description_parser"]
-	path = peripheral_description_parser
+	path = robot-generic-description/peripheral_description_parser
 	url = https://github.com/robot-generic-description/peripheral_description_parser
 [submodule "robot_description"]
-	path = robot_description
+	path = robot-generic-description/robot_description
 	url = https://github.com/robot-generic-description/robot_description
 [submodule "peripheral_description"]
-	path = peripheral_description
+	path = robot-generic-description/peripheral_description
 	url = https://github.com/robot-generic-description/peripheral_description
 [submodule "robot_description_generator"]
-	path = robot_description_generator
+	path = robot-generic-description/robot_description_generator
 	url = https://github.com/robot-generic-description/robot_description_generator
 [submodule "robot_description_parser"]
-	path = robot_description_parser
+	path = robot-generic-description/robot_description_parser
 	url = https://github.com/robot-generic-description/robot_description_parser
 [submodule "power_system_diagnostics"]
-	path = power_system_diagnostics
+	path = robot-generic-system-diagnostics/power_system_diagnostics
 	url = https://github.com/robot-generic-system-diagnostics/power_system_diagnostics
 [submodule "robot_interaction_diagnostics"]
-	path = robot_interaction_diagnostics
+	path = robot-generic-system-diagnostics/robot_interaction_diagnostics
 	url = https://github.com/robot-generic-system-diagnostics/robot_interaction_diagnostics
 [submodule "robot_application_diagnostics"]
-	path = robot_application_diagnostics
+	path = robot-generic-system-diagnostics/robot_application_diagnostics
 	url = https://github.com/robot-generic-system-diagnostics/robot_application_diagnostics
 [submodule "robot_system_logging"]
-	path = robot_system_logging
+	path = robot-generic-system-diagnostics/robot_system_logging
 	url = https://github.com/robot-generic-system-diagnostics/robot_system_logging
 [submodule "multi_robot_diagnostics"]
-	path = multi_robot_diagnostics
+	path = robot-generic-system-diagnostics/multi_robot_diagnostics
 	url = https://github.com/robot-generic-system-diagnostics/multi_robot_diagnostics
 [submodule "sensor_diagnostics"]
-	path = sensor_diagnostics
+	path = robot-generic-system-diagnostics/sensor_diagnostics
 	url = https://github.com/robot-generic-system-diagnostics/sensor_diagnostics
 [submodule "hardware_diagnostics"]
-	path = hardware_diagnostics
+	path = robot-generic-system-diagnostics/hardware_diagnostics
 	url = https://github.com/robot-generic-system-diagnostics/hardware_diagnostics
 [submodule "realtime_communication"]
-	path = realtime_communication
+	path = robot-generic-hardware-communication/realtime_communication
 	url = https://github.com/robot-generic-hardware-communication/realtime_communication
 [submodule "bluetooth_communication"]
-	path = bluetooth_communication
+	path = robot-generic-hardware-communication/bluetooth_communication
 	url = https://github.com/robot-generic-hardware-communication/bluetooth_communication
 [submodule "radio_communication"]
-	path = radio_communication
+	path = robot-generic-hardware-communication/radio_communication
 	url = https://github.com/robot-generic-hardware-communication/radio_communication
 [submodule "ethernet_communication"]
-	path = ethernet_communication
+	path = robot-generic-hardware-communication/ethernet_communication
 	url = https://github.com/robot-generic-hardware-communication/ethernet_communication
 [submodule "wireless_communication"]
-	path = wireless_communication
+	path = robot-generic-hardware-communication/wireless_communication
 	url = https://github.com/robot-generic-hardware-communication/wireless_communication
 [submodule "usb_communication"]
-	path = usb_communication
+	path = robot-generic-hardware-communication/usb_communication
 	url = https://github.com/robot-generic-hardware-communication/usb_communication
 [submodule "ethercat_communication"]
-	path = ethercat_communication
+	path = robot-generic-hardware-communication/ethercat_communication
 	url = https://github.com/robot-generic-hardware-communication/ethercat_communication
 [submodule "joystick_drivers"]
-	path = joystick_drivers
+	path = robot-generic-sensor-drivers/joystick_drivers
 	url = https://github.com/robot-generic-sensor-drivers/joystick_drivers
 [submodule "axis_camera"]
-	path = axis_camera
+	path = robot-generic-sensor-drivers/axis_camera
 	url = https://github.com/robot-generic-sensor-drivers/axis_camera
 [submodule "openni2_camera"]
-	path = openni2_camera
+	path = robot-generic-sensor-drivers/openni2_camera
 	url = https://github.com/robot-generic-sensor-drivers/openni2_camera
 [submodule "urg_node"]
-	path = urg_node
+	path = robot-generic-sensor-drivers/urg_node
 	url = https://github.com/robot-generic-sensor-drivers/urg_node
 [submodule "velodyne"]
-	path = velodyne
+	path = robot-generic-sensor-drivers/velodyne
 	url = https://github.com/robot-generic-sensor-drivers/velodyne
 [submodule "metal_detector_drivers"]
-	path = metal_detector_drivers
+	path = robot-generic-sensor-drivers/metal_detector_drivers
 	url = https://github.com/robot-generic-sensor-drivers/metal_detector_drivers
 [submodule "battery_drivers"]
-	path = battery_drivers
+	path = robot-generic-sensor-drivers/battery_drivers
 	url = https://github.com/robot-generic-sensor-drivers/battery_drivers
 [submodule "power_drivers"]
-	path = power_drivers
+	path = robot-generic-sensor-drivers/power_drivers
 	url = https://github.com/robot-generic-sensor-drivers/power_drivers
 [submodule "radiometer_drivers"]
-	path = radiometer_drivers
+	path = robot-generic-sensor-drivers/radiometer_drivers
 	url = https://github.com/robot-generic-sensor-drivers/radiometer_drivers
 [submodule "thermometer_drivers"]
-	path = thermometer_drivers
+	path = robot-generic-sensor-drivers/thermometer_drivers
 	url = https://github.com/robot-generic-sensor-drivers/thermometer_drivers
 [submodule "radiation_drivers"]
-	path = radiation_drivers
+	path = robot-generic-sensor-drivers/radiation_drivers
 	url = https://github.com/robot-generic-sensor-drivers/radiation_drivers
 [submodule "bump_drivers"]
-	path = bump_drivers
+	path = robot-generic-sensor-drivers/bump_drivers
 	url = https://github.com/robot-generic-sensor-drivers/bump_drivers
 [submodule "compass_drivers"]
-	path = compass_drivers
+	path = robot-generic-sensor-drivers/compass_drivers
 	url = https://github.com/robot-generic-sensor-drivers/compass_drivers
 [submodule "emi_drivers"]
-	path = emi_drivers
+	path = robot-generic-sensor-drivers/emi_drivers
 	url = https://github.com/robot-generic-sensor-drivers/emi_drivers
 [submodule "laser_drivers"]
-	path = laser_drivers
+	path = robot-generic-sensor-drivers/laser_drivers
 	url = https://github.com/robot-generic-sensor-drivers/laser_drivers
 [submodule "tactile_drivers"]
-	path = tactile_drivers
+	path = robot-generic-sensor-drivers/tactile_drivers
 	url = https://github.com/robot-generic-sensor-drivers/tactile_drivers
 [submodule "camera_drivers"]
-	path = camera_drivers
+	path = robot-generic-sensor-drivers/camera_drivers
 	url = https://github.com/robot-generic-sensor-drivers/camera_drivers
 [submodule "proximity_drivers"]
-	path = proximity_drivers
+	path = robot-generic-sensor-drivers/proximity_drivers
 	url = https://github.com/robot-generic-sensor-drivers/proximity_drivers
 [submodule "imu_drivers"]
-	path = imu_drivers
+	path = robot-generic-sensor-drivers/imu_drivers
 	url = https://github.com/robot-generic-sensor-drivers/imu_drivers
 [submodule "gps_drivers"]
-	path = gps_drivers
+	path = robot-generic-sensor-drivers/gps_drivers
 	url = https://github.com/robot-generic-sensor-drivers/gps_drivers
 [submodule "sonar_drivers"]
-	path = sonar_drivers
+	path = robot-generic-sensor-drivers/sonar_drivers
 	url = https://github.com/robot-generic-sensor-drivers/sonar_drivers
 [submodule "infrared_drivers"]
-	path = infrared_drivers
+	path = robot-generic-sensor-drivers/infrared_drivers
 	url = https://github.com/robot-generic-sensor-drivers/infrared_drivers
 [submodule "kinect2_drivers"]
-	path = kinect2_drivers
+	path = robot-generic-sensor-drivers/kinect2_drivers
 	url = https://github.com/robot-generic-sensor-drivers/kinect2_drivers
 [submodule "kinect_drivers"]
-	path = kinect_drivers
+	path = robot-generic-sensor-drivers/kinect_drivers
 	url = https://github.com/robot-generic-sensor-drivers/kinect_drivers
 [submodule "robot_control_interface"]
-	path = robot_control_interface
+	path = robot-generic-api/robot_control_interface
 	url = https://github.com/robot-generic-api/robot_control_interface
 [submodule "multi_robot_interfaces"]
-	path = multi_robot_interfaces
+	path = robot-generic-api/multi_robot_interfaces
 	url = https://github.com/robot-generic-api/multi_robot_interfaces
 [submodule "diagnostic_interfaces"]
-	path = diagnostic_interfaces
+	path = robot-generic-api/diagnostic_interfaces
 	url = https://github.com/robot-generic-api/diagnostic_interfaces
 [submodule "manipulation_interfaces"]
-	path = manipulation_interfaces
+	path = robot-generic-api/manipulation_interfaces
 	url = https://github.com/robot-generic-api/manipulation_interfaces
 [submodule "navigation_interfaces"]
-	path = navigation_interfaces
+	path = robot-generic-api/navigation_interfaces
 	url = https://github.com/robot-generic-api/navigation_interfaces
 [submodule "sensor_interfaces"]
-	path = sensor_interfaces
+	path = robot-generic-api/sensor_interfaces
 	url = https://github.com/robot-generic-api/sensor_interfaces
 [submodule "data_collection"]
-	path = data_collection
+	path = robot-generic-apps/data_collection
 	url = https://github.com/robot-generic-apps/data_collection
 [submodule "telepresence"]
-	path = telepresence
+	path = robot-generic-apps/telepresence
 	url = https://github.com/robot-generic-apps/telepresence
 [submodule "search_for_person"]
-	path = search_for_person
+	path = robot-generic-apps/search_for_person
 	url = https://github.com/robot-generic-apps/search_for_person
 [submodule "deliver_object"]
-	path = deliver_object
+	path = robot-generic-apps/deliver_object
 	url = https://github.com/robot-generic-apps/deliver_object
 [submodule "map_an_area"]
-	path = map_an_area
+	path = robot-generic-apps/map_an_area
 	url = https://github.com/robot-generic-apps/map_an_area
 [submodule "search_for_object"]
-	path = search_for_object
+	path = robot-generic-apps/search_for_object
 	url = https://github.com/robot-generic-apps/search_for_object
 [submodule "patrol"]
-	path = patrol
+	path = robot-generic-apps/patrol
 	url = https://github.com/robot-generic-apps/patrol
 [submodule "follow_me"]
-	path = follow_me
+	path = robot-generic-apps/follow_me
 	url = https://github.com/robot-generic-apps/follow_me
 [submodule "hardware_discovery_manager"]
-	path = hardware_discovery_manager
+	path = robot-generic-kernel/hardware_discovery_manager
 	url = https://github.com/robot-generic-kernel/hardware_discovery_manager
 [submodule "multi_robot_manager"]
-	path = multi_robot_manager
+	path = robot-generic-kernel/multi_robot_manager
 	url = https://github.com/robot-generic-kernel/multi_robot_manager
 [submodule "control_mode_manager"]
-	path = control_mode_manager
+	path = robot-generic-kernel/control_mode_manager
 	url = https://github.com/robot-generic-kernel/control_mode_manager
 [submodule "robot_task_manager"]
-	path = robot_task_manager
+	path = robot-generic-kernel/robot_task_manager
 	url = https://github.com/robot-generic-kernel/robot_task_manager
 [submodule "runtime_test_manager"]
-	path = runtime_test_manager
+	path = robot-generic-kernel/runtime_test_manager
 	url = https://github.com/robot-generic-kernel/runtime_test_manager
 [submodule "command_line_manager"]
-	path = command_line_manager
+	path = robot-generic-kernel/command_line_manager
 	url = https://github.com/robot-generic-kernel/command_line_manager
 [submodule "applications_manager"]
-	path = applications_manager
+	path = robot-generic-kernel/applications_manager
 	url = https://github.com/robot-generic-kernel/applications_manager
 [submodule "diagnostic_manager"]
-	path = diagnostic_manager
+	path = robot-generic-kernel/diagnostic_manager
 	url = https://github.com/robot-generic-kernel/diagnostic_manager
 [submodule "network_manager"]
-	path = network_manager
+	path = robot-generic-kernel/network_manager
 	url = https://github.com/robot-generic-kernel/network_manager
 [submodule "firmware_manager"]
-	path = firmware_manager
+	path = robot-generic-kernel/firmware_manager
 	url = https://github.com/robot-generic-kernel/firmware_manager
 [submodule "driver_manager"]
-	path = driver_manager
+	path = robot-generic-kernel/driver_manager
 	url = https://github.com/robot-generic-kernel/driver_manager
 [submodule "sensor_manager"]
-	path = sensor_manager
+	path = robot-generic-kernel/sensor_manager
 	url = https://github.com/robot-generic-kernel/sensor_manager
 [submodule "capabilities_manager"]
-	path = capabilities_manager
+	path = robot-generic-kernel/capabilities_manager
 	url = https://github.com/robot-generic-kernel/capabilities_manager
 [submodule "shared_controller"]
-	path = shared_controller
+	path = robot-generic-controllers/shared_controller
 	url = https://github.com/robot-generic-controllers/shared_controller
 [submodule "safe_mode_controller"]
-	path = safe_mode_controller
+	path = robot-generic-controllers/safe_mode_controller
 	url = https://github.com/robot-generic-controllers/safe_mode_controller
 [submodule "teleop_controller"]
-	path = teleop_controller
+	path = robot-generic-controllers/teleop_controller
 	url = https://github.com/robot-generic-controllers/teleop_controller
 [submodule "autonomous_controller"]
-	path = autonomous_controller
+	path = robot-generic-controllers/autonomous_controller
 	url = https://github.com/robot-generic-controllers/autonomous_controller
 [submodule "ros_controllers"]
-	path = ros_controllers
+	path = robot-generic-controllers/ros_controllers
 	url = https://github.com/robot-generic-controllers/ros_controllers
 [submodule "environment_models"]
-	path = environment_models
+	path = robot-generic-models/environment_models
 	url = https://github.com/robot-generic-models/environment_models
 [submodule "payload_models"]
-	path = payload_models
+	path = robot-generic-models/payload_models
 	url = https://github.com/robot-generic-models/payload_models
 [submodule "full_robot_models"]
-	path = full_robot_models
+	path = robot-generic-models/full_robot_models
 	url = https://github.com/robot-generic-models/full_robot_models
 [submodule "mounting_models"]
-	path = mounting_models
+	path = robot-generic-models/mounting_models
 	url = https://github.com/robot-generic-models/mounting_models
 [submodule "gripper_models"]
-	path = gripper_models
+	path = robot-generic-models/gripper_models
 	url = https://github.com/robot-generic-models/gripper_models
 [submodule "base_models"]
-	path = base_models
+	path = robot-generic-models/base_models
 	url = https://github.com/robot-generic-models/base_models
 [submodule "arm_models"]
-	path = arm_models
+	path = robot-generic-models/arm_models
 	url = https://github.com/robot-generic-models/arm_models
 [submodule "sensor_models"]
-	path = sensor_models
+	path = robot-generic-models/sensor_models
 	url = https://github.com/robot-generic-models/sensor_models
 [submodule "robot_firmware_commands"]
-	path = robot_firmware_commands
+	path = robot-generic-command-line/robot_firmware_commands
 	url = https://github.com/robot-generic-command-line/robot_firmware_commands
 [submodule "robot_description_commands"]
-	path = robot_description_commands
+	path = robot-generic-command-line/robot_description_commands
 	url = https://github.com/robot-generic-command-line/robot_description_commands
 [submodule "robot_motor_commands"]
-	path = robot_motor_commands
+	path = robot-generic-command-line/robot_motor_commands
 	url = https://github.com/robot-generic-command-line/robot_motor_commands
 [submodule "robot_debug_commands"]
-	path = robot_debug_commands
+	path = robot-generic-command-line/robot_debug_commands
 	url = https://github.com/robot-generic-command-line/robot_debug_commands
 [submodule "robot_interaction_commands"]
-	path = robot_interaction_commands
+	path = robot-generic-command-line/robot_interaction_commands
 	url = https://github.com/robot-generic-command-line/robot_interaction_commands
 [submodule "robot_api_commands"]
-	path = robot_api_commands
+	path = robot-generic-command-line/robot_api_commands
 	url = https://github.com/robot-generic-command-line/robot_api_commands
 [submodule "robot_sensor_commands"]
-	path = robot_sensor_commands
+	path = robot-generic-command-line/robot_sensor_commands
 	url = https://github.com/robot-generic-command-line/robot_sensor_commands
 [submodule "robot_system_commands"]
-	path = robot_system_commands
+	path = robot-generic-command-line/robot_system_commands
 	url = https://github.com/robot-generic-command-line/robot_system_commands
 [submodule "multi_robot_commands"]
-	path = multi_robot_commands
+	path = robot-generic-command-line/multi_robot_commands
 	url = https://github.com/robot-generic-command-line/multi_robot_commands
 [submodule "how-to-add-hardware-to-your-robot"]
-	path = how-to-add-hardware-to-your-robot
+	path = robot-generic-tutorials/how-to-add-hardware-to-your-robot
 	url = https://github.com/robot-generic-tutorials/how-to-add-hardware-to-your-robot
 [submodule "how-to-add-sensors-to-your-robot"]
-	path = how-to-add-sensors-to-your-robot
+	path = robot-generic-tutorials/how-to-add-sensors-to-your-robot
 	url = https://github.com/robot-generic-tutorials/how-to-add-sensors-to-your-robot
 [submodule "how-to-install-robot-generic-apps"]
-	path = how-to-install-robot-generic-apps
+	path = robot-generic-tutorials/how-to-install-robot-generic-apps
 	url = https://github.com/robot-generic-tutorials/how-to-install-robot-generic-apps
 [submodule "how-to-contribute-to-robot-generic"]
-	path = how-to-contribute-to-robot-generic
+	path = robot-generic-tutorials/how-to-contribute-to-robot-generic
 	url = https://github.com/robot-generic-tutorials/how-to-contribute-to-robot-generic
 [submodule "how-to-use-robot-generic-api"]
-	path = how-to-use-robot-generic-api
+	path = robot-generic-tutorials/how-to-use-robot-generic-api
 	url = https://github.com/robot-generic-tutorials/how-to-use-robot-generic-api
 [submodule "how-to-use-multi-robot-systems"]
-	path = how-to-use-multi-robot-systems
+	path = robot-generic-tutorials/how-to-use-multi-robot-systems
 	url = https://github.com/robot-generic-tutorials/how-to-use-multi-robot-systems
 [submodule "how-to-install-multi-robot-systems"]
-	path = how-to-install-multi-robot-systems
+	path = robot-generic-tutorials/how-to-install-multi-robot-systems
 	url = https://github.com/robot-generic-tutorials/how-to-install-multi-robot-systems
 [submodule "how-to-use-robot-generic-apps"]
-	path = how-to-use-robot-generic-apps
+	path = robot-generic-tutorials/how-to-use-robot-generic-apps
 	url = https://github.com/robot-generic-tutorials/how-to-use-robot-generic-apps
 [submodule "how-to-make-robot-generic-apps"]
-	path = how-to-make-robot-generic-apps
+	path = robot-generic-tutorials/how-to-make-robot-generic-apps
 	url = https://github.com/robot-generic-tutorials/how-to-make-robot-generic-apps
 [submodule "how-to-use-robot-generic-cli"]
-	path = how-to-use-robot-generic-cli
+	path = robot-generic-tutorials/how-to-use-robot-generic-cli
 	url = https://github.com/robot-generic-tutorials/how-to-use-robot-generic-cli
 [submodule "how-to-install-robot-generic-kernel"]
-	path = how-to-install-robot-generic-kernel
+	path = robot-generic-tutorials/how-to-install-robot-generic-kernel
 	url = https://github.com/robot-generic-tutorials/how-to-install-robot-generic-kernel
 [submodule "how-to-make-robot-generic-kernel"]
-	path = how-to-make-robot-generic-kernel
+	path = robot-generic-tutorials/how-to-make-robot-generic-kernel
 	url = https://github.com/robot-generic-tutorials/how-to-make-robot-generic-kernel
 [submodule "user_stories"]
-	path = user_stories
+	path = robot-generic-documentation/user_stories
 	url = https://github.com/robot-generic-documentation/user_stories
 [submodule "software_architecture_images"]
-	path = software_architecture_images
+	path = robot-generic-documentation/software_architecture_images
 	url = https://github.com/robot-generic-documentation/software_architecture_images
 [submodule "kinect_calibration"]
-	path = kinect_calibration
+	path = robot-generic-calibration/kinect_calibration
 	url = https://github.com/robot-generic-calibration/kinect_calibration
 [submodule "body_calibration"]
-	path = body_calibration
+	path = robot-generic-calibration/body_calibration
 	url = https://github.com/robot-generic-calibration/body_calibration
 [submodule "camera_calibration"]
-	path = camera_calibration
+	path = robot-generic-calibration/camera_calibration
 	url = https://github.com/robot-generic-calibration/camera_calibration
