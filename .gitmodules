@@ -1,5 +1,5 @@
 [submodule "supported_hardware_list"]
-	path = supported_hardware_list
+	path = robot-generic-description/supported_hardware_list
 	url = https://github.com/robot-generic-description/supported_hardware_list
 [submodule "moveit_config_generator"]
 	path = moveit_config_generator
